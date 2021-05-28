@@ -1,7 +1,10 @@
 Backtracking algorithm created for artificial intelligence classes. The goal of the algorithm is to find a solution that meets the given constraints. Algorithm solves Einstein's five-houses riddle and the map coloring problem.
 
 Solutions:
-{'Niemiec': 4, 'Szwed': 5, 'Anglik': 3, 'Dunczyk': 2, 'Norweg': 1}
+
+
+
+{'Niemiec': 4, 'Szwed': 5, 'Anglik': 3, 'Dunczyk': 2, 'Norweg': 1} 
 
 {'Czerwony': 3, 'Zolty': 1, 'Bialy': 5, 'Niebieski': 2, 'Zielony': 4}
 
@@ -10,6 +13,7 @@ Solutions:
 {'Light': 2, 'Cygaro': 1, 'BezFiltra': 3, 'Mentolowe': 5, 'Fajka': 4}
 
 {'Koty': 1, 'Konie': 2, 'Ptaki': 3, 'Psy': 5, 'Rybki': 4}
+
 
 
 
